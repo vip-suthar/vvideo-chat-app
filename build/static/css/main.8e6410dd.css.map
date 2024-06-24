@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.8e6410dd.css","mappings":"AAAA,WAEE,YAAa,CACb,QAAS,CACT,SAAU,CAHV,WAIF","sources":["index.css"],"sourcesContent":["body, #root {\n  width: 100vw;\n  height: 100vh;\n  margin: 0;\n  padding: 0;\n}\n"],"names":[],"sourceRoot":""}
